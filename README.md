@@ -1,5 +1,5 @@
 # lb1
-package com.itschool;
+package Vladislavavp17;
 
 public class Main {
 
